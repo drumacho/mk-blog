@@ -1,2 +1,2 @@
-export * from "./MkHeader"
-export * from "./MkFooter"
+export * from "./MKHeader"
+export * from "./MKFooter"
